@@ -1,4 +1,4 @@
-#TechCheck
+# TechCheck
 A mini website and sustainability quiz I started working on with my peer as part of Stemettes' Peer Mentoring Programme
 
 ---------------------------------------------------------------------------------
